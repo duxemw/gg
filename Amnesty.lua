@@ -13,7 +13,7 @@ TODO
 repeat wait() until game:IsLoaded()
 
 -- Variables
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tehtestedd/ROBLOX/main/Jan_Lib.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iotxv/gg/main/Jan_Lib.lua"))()
 
 
 local GlobalTargetPlayer = nil
